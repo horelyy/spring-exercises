@@ -83,7 +83,7 @@
             <url>http://localhost:8080/manager/text</url>
             <username>war-deployer</username>
             <password>maven-tomcat-plugin</password>
-            <path>/springApp</path>
+            <path>/</path>
           </configuration>
         </plugin>
         <plugin>
