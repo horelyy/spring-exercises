@@ -78,7 +78,7 @@
   </dependencies>
 
   <build>
-    <finalName>WebApp</finalName>
+    <finalName>Web application</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <!-- Configure the Tomcat Maven plugin -->
